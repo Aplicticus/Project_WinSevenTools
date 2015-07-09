@@ -15,3 +15,6 @@ F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.exe
 F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.pdb
 F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.csprojResolveAssemblyReference.cache
 F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.Layouts.SubLayouts.frmSubLayout.resources
+F:\Project_WinSevenTools\Project_WinSevenTools\WinSevenTools\bin\Debug\WinSevenTools.exe.config
+F:\Project_WinSevenTools\Project_WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.exe
+F:\Project_WinSevenTools\Project_WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.pdb

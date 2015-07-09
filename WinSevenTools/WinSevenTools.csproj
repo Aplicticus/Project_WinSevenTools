@@ -110,6 +110,12 @@
     <Compile Include="SubForms\AdminSubForms\frmAddUser.Designer.cs">
       <DependentUpon>frmAddUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="SubForms\AdminSubForms\frmEditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubForms\AdminSubForms\frmEditUser.Designer.cs">
+      <DependentUpon>frmEditUser.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Layouts\frmMainLayout.resx">
       <DependentUpon>frmMainLayout.cs</DependentUpon>
     </EmbeddedResource>

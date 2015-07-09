@@ -55,6 +55,10 @@ namespace WinSevenTools
                             frmGuest Guest = new frmGuest(currentUser.UserName, currentUser.UserRole);
                             Guest.ShowDialog();
                             break;
+                        default:
+                            frmGuest Default = new frmGuest(currentUser.UserName, currentUser.UserRole);
+                            Default.ShowDialog();
+                            break;
                     }
                 }
                 else

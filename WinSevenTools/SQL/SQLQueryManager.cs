@@ -19,6 +19,7 @@ namespace WinSevenTools.SQL
         private void FillSqlQueryList()
         {            
             sqlQueries.Add("SelectAllUsers", "SELECT * FROM tbUsers");
+            
             sqlQueries.Add("SelectAllEvents", "SELECT * FROM tbEvents");
 
 

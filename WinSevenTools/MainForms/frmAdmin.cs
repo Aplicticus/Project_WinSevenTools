@@ -46,20 +46,14 @@ namespace WinSevenTools.MainForms
             // Fill Data grid view (not finished) !!!
             string sqlQuery = sqlQMgr.sqlQueries.Where(x => x.Key == "SelectAllUsers").FirstOrDefault().Value;
             DataTable dt = sqlMgr.ReadDatabaseToDataTable(sqlQuery);
-            foreach (DataRow dr in dt.Rows)
-            {
-                dgvUsers.Rows.Add(dr[0].ToString());
-            }
+            dgvUsers.DataSource = dt;
         }
         private void FillDGVEvents()
         {
             // Fill Data grid view (not finished) !!!
             string sqlQuery = sqlQMgr.sqlQueries.Where(x => x.Key == "SelectAllEvents").First().Value;
             DataTable dt = sqlMgr.ReadDatabaseToDataTable(sqlQuery);
-            foreach (DataRow dr in dt.Rows)
-            {
-                dgvEvents.Rows.Add(dr[0].ToString());
-            }
+            dgvEvents.DataSource = dt;
         }
 
         #region Buttons
