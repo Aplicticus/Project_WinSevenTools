@@ -1,0 +1,17 @@
+F:\WinSevenTools\WinSevenTools\bin\Debug\WinSevenTools.exe.config
+F:\WinSevenTools\WinSevenTools\bin\Debug\WinSevenTools.exe
+F:\WinSevenTools\WinSevenTools\bin\Debug\WinSevenTools.pdb
+F:\WinSevenTools\WinSevenTools\bin\Debug\System.Windows.Forms.Ribbon35.dll
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.frmMainLayout.resources
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.MainForms.frmAdmin.resources
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.MainForms.frmManager.resources
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.MainForms.frmGuest.resources
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.MainForms.frmDeveloper.resources
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.MainForms.frmUser.resources
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.frmStart.resources
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.Properties.Resources.resources
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.csproj.GenerateResource.Cache
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.exe
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.pdb
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.csprojResolveAssemblyReference.cache
+F:\WinSevenTools\WinSevenTools\obj\Debug\WinSevenTools.Layouts.SubLayouts.frmSubLayout.resources
